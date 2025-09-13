@@ -8,8 +8,10 @@ const Hero = () => {
   return (
     <div id='home' className='hero'>
         <img src={profile_img} alt="" />
-        <h1><span>I'm Allan Mwenja,</span> frontend developer based in Kenya.</h1>
-        <p>I am a full-stack developer with expertise in Angular, React, React Native, Node.js, and Next.js, specializing in building scalable, user-focused applications. My experience spans the entire development lifecycle—from ideation and design to deployment and optimization.
+        <h1><span>I'm Alex Bennett,</span> frontend developer based in USA.</h1>
+        <p>I am a frontend developer from California, USA with 10 years of experience in multiple companies like Microsoft, Tesla and Apple.
+
+
 </p>
         <div className="hero-action">
             <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect With Me</AnchorLink></div>
